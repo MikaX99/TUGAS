@@ -15,5 +15,6 @@ B. Jaringan P2P (Peer to Peer) : Dimana setiap node / komputer / perangkat menja
 - IP PUBLIC   : IP Lokal yang merupakan umum nya ada pada perangkat / gadget yang kita pakai sehari-hari
 
 
-2. LINUX SHELL : Suatu perintah melalui text yang digunakan oleh User mengirimkan perintah kepada komputer yang
+2. LINUX SHELL : Suatu perintah melalui text yang digunakan oleh User mengirimkan pesan/komunikasi kepada komputer
+   
    Dokumentasi CLI
