@@ -11,7 +11,7 @@ git config
 
 <img width="921" alt="Screenshot 2023-11-24 at 06 01 36" src="https://github.com/Subzero16/TUGAS/assets/69718826/961ac5af-44fc-48e8-8807-c83be28c96bc">
 
-git confir --list
+git config --list
 
 <img width="628" alt="Screenshot 2023-11-24 at 06 01 45" src="https://github.com/Subzero16/TUGAS/assets/69718826/7e31c510-e450-497c-b964-45ed27ec26d8">
 
