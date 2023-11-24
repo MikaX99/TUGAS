@@ -19,6 +19,10 @@ ssh -T
 
 <img width="767" alt="Screenshot 2023-11-24 at 06 01 56" src="https://github.com/Subzero16/TUGAS/assets/69718826/6e13d629-f8a8-4d1f-b9c1-bfc6bf53805e">
 
+git init
+
+<img width="915" alt="Screenshot 2023-11-24 at 09 28 48" src="https://github.com/Subzero16/TUGAS/assets/69718826/89df6b51-e144-4f5e-854c-50b5c1efd6e1">
+
 git remote
 
 <img width="951" alt="Screenshot 2023-11-24 at 06 02 20" src="https://github.com/Subzero16/TUGAS/assets/69718826/05763ea6-4646-46dc-aebb-6d9e6b8b3e27">
