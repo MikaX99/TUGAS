@@ -76,7 +76,8 @@ MATIKAN SERVER hagi3 dan hanya menyalakan server hagi2
 
 MATIKAN SERVER hagi2 dan hanya menyalakan server hagi3
 
-![Screenshot from 2023-12-01 06-32-44](https://github.com/Subzero16/TUGAS/assets/69718826/6626ee8e-228c-462b-94fa-8813960e3bd0)
+![Screenshot from 2023-12-01 06-32-16](https://github.com/Subzero16/TUGAS/assets/69718826/3adff484-b44d-4e6d-a5a3-ec461be2d332)
+
 
 
 ============ done =============
