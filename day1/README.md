@@ -1,5 +1,5 @@
 '''''
-1. Fundamental devops
+1. Fundamental devops HAHA
 
 Merupakan kombinasi dari penerapan culture bekerja / manajemen suatu project yang dikembangkan dengan mengutamakan efisiensi 
 dan efektifitas dari pengembangan software, Culture bekerja ini merupakan dampak dari diterapkannya mikroservice dalam pengembangan 
